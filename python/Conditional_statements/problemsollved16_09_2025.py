@@ -79,24 +79,44 @@ Enter side of square:5
 The area of square is= 25.0
 
 Case 2: Rectangle
+*******AREA calculator*********
+press 1 for area of square
+press 2 for area of rectangle
+press 3 for area of circle
+press 4 for area of triangle
 Enter a number from 1 to 4:2
 Enter length of rectangle:2.5
 Enter breadth of rectangle:0.62
 The area of rectangle is= 1.55
 
 Case 3: Circle
+*******AREA calculator*********
+press 1 for area of square
+press 2 for area of rectangle
+press 3 for area of circle
+press 4 for area of triangle
 Enter a number from 1 to 4:3
 Enter radius of circle:7
 The area of circle is= 154.0
 
 Case 4: Triangle
+*******AREA calculator*********
+press 1 for area of square
+press 2 for area of rectangle
+press 3 for area of circle
+press 4 for area of triangle
 Enter a number from 1 to 4:4
 Enter base:10
 Enter height:5
 The area of triangle is= 25.0
 
 Case 5: Invalid
-Enter a number from 1 to 4:6
+*******AREA calculator*********
+press 1 for area of square
+press 2 for area of rectangle
+press 3 for area of circle
+press 4 for area of triangle
+Enter a number from 1 to 4:0
 Invalid input
 """
 
@@ -130,3 +150,4 @@ the number is four digit
 Enter a number=12345
 number is five digit
 """
+
