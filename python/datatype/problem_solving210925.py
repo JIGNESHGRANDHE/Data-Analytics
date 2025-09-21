@@ -41,3 +41,24 @@ print("Method 2")
 print(A.index("fit in"))
 print("*"*50)
 
+
+"""
+#OUTPUT
+**************************************************
+Length of given string is: 43
+**************************************************
+The number of time 'o' is occurring is: 3
+**************************************************
+String in lower case is as: why fit in, when you are born to stand out!
+String in upper case is as: WHY FIT IN, WHEN YOU ARE BORN TO STAND OUT!
+**************************************************
+Why Fit In, When You Are Born To Stand Out!
+**************************************************
+Method 1
+4
+Method 2
+4
+**************************************************
+"""
+
+
