@@ -18,6 +18,6 @@ student score above 75
 """
 Enter Marks :56
 Student is Pass
-
 """
+
 
