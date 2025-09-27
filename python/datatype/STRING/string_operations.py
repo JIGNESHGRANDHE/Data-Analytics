@@ -33,3 +33,4 @@ print(a.center(13,"|"))
 ||||HUMAN||||
 
 """
+
