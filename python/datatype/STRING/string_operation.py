@@ -3,8 +3,8 @@ a="India "
 print(("endswith()").center(20))                #OUTPUT
 print(a.endswith("dia"))                        #False
 print(a.endswith(" "))                          #True
-print(a.endswith("i",0,4)) #True
-print(a.endswith("y",0,4)) #False
+print(a.endswith("i",0,4))                      #True
+print(a.endswith("y",0,4))                     #False
 print(a.endswith("a"))                         #False
 print(a.endswith("."))                         #False
 #startswith():- returns True if the string starts with specified value
@@ -13,7 +13,7 @@ print(("startswith()").center(20))                  #OUTPUT
 print((a.startswith(".")))                          #False
 print((a.startswith("i")))                          #False
 print((a.startswith("I")))                          #True
-print((a.startswith("d",2,5))) #True
+print((a.startswith("d",2,5)))                      #True
 print(a.startswith("India"))                        #True
 #swapcase():- swap cases , lower becomes upper and vice versa
 print("*"*50)
@@ -87,5 +87,5 @@ print(g.rindex("o"),g.rindex("O"))              # 24 6
 print(g.rfind("o"),g.rfind("O"))                # 24 6
 #print(g.index("z"))                            #ERROR
 print(g.rfind("z"))                             # -1
-print(g.rindex("o",0,20))    # 18
-print(g.rfind("o",0,20))     # 18
+print(g.rindex("o",0,20))                       # 18
+print(g.rfind("o",0,20))                        # 18
