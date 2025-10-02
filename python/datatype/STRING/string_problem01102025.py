@@ -7,7 +7,6 @@ print(a.split("."))
 ['OOTD', 'YOLO', 'ASAP', 'BRB', 'GTG', 'OTW']
 """
 
-
 #Write a program to sort strings alphabetically.
 print("*"*50)
 s=input("enter a string:-")
@@ -41,3 +40,4 @@ enter a string:-She sells seashells on the sea shore
 enter a substring:-sh
 The sh is occurring 2 times in She sells seashells on the sea shore
 """
+
