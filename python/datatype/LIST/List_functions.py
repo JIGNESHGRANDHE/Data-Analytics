@@ -3,7 +3,7 @@ print(a)
 print("*"*50)
 
 #Write a program to find the length of list
-print("the length of sting is=",len(a))
+print(len(a))
 print("*"*50)
 
 #Write a program to count an oocurence of particular element
@@ -28,4 +28,5 @@ print("*"*50)
 
 #Write a program to remove an element from certain position
 a.pop(2)
+
 print(a)
