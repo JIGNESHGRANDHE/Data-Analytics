@@ -16,3 +16,4 @@ print(type(f))  #<class 'tuple'>
 
 h=("cat", "dog", 9, 6, 85.56)
 print(type(h))  #<class 'tuple'>
+
