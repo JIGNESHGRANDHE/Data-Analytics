@@ -4,7 +4,6 @@ g1=("Football","Basketball","Chess","Cricket","Swimming")    #tuple with parenth
 print(type(g1))   #<class 'tuple'>
 print(type(g))    #<class 'tuple'>
 
-
 f="Engineering"
 print(type(f))   #<class 'str'>
 
@@ -16,4 +15,5 @@ print(type(f))  #<class 'tuple'>
 
 h=("cat", "dog", 9, 6, 85.56)
 print(type(h))  #<class 'tuple'>
+
 
