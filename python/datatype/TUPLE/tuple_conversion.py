@@ -26,4 +26,5 @@ print(type(c))
 #OUTPUT
 ('laptop', 'windows', 'computer', 'mouse')
 <class 'tuple'>
+
 """
