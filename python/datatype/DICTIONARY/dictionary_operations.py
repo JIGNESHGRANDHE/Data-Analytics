@@ -46,4 +46,3 @@ print(product)
 OUTPUT:-
 120
 """
-
