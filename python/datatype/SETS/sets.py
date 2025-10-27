@@ -1,5 +1,4 @@
 fruits = {"apple", "banana", "cherry", "apple"}
-
 print(fruits)
 print(type(fruits))
 
@@ -8,3 +7,4 @@ print(type(fruits))
 {'banana', 'cherry', 'apple'}
 <class 'set'>
 """
+
