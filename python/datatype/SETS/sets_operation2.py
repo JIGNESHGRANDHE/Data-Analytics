@@ -1,4 +1,3 @@
-
 a = {"India", "China", "Nepal", "Bhutan", "Sri Lanka"}
 b = {"USA", "Canada", "Brazil"}
 c = {"Bhutan", "Sri Lanka"}
@@ -40,3 +39,4 @@ print("# clear()")
 print("Return value of a.clear():", a.clear())  # Returns None
 print("After clear, a =", a)  # Empty set
 print("-" * 50)
+
