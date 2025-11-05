@@ -1,4 +1,3 @@
-
 #Find maximum and minimum values in a set
 print("Write a program to find max and min values in a set.")
 a = {12, 56, 19, 51, 74, 86, 0, 156}
@@ -46,3 +45,4 @@ r = {5, 7, 6}
 
 print(r.issubset(e)) # True
 print("*" * 50)
+
