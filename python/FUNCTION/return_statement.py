@@ -26,3 +26,4 @@ print(analyze_number(5))   # "5 is positive"
 print(analyze_number(-3))  # "-3 is negative"
 print(analyze_number(0))   # "Number is zero (stopped early)"
 
+
